@@ -33,5 +33,3 @@ Ideal para fins didáticos, pequenas aplicações ou como base para projetos mai
 ✔ Estrutura de código limpa e organizada  
 
 
-## 🗂 Estrutura do Projeto
-
